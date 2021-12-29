@@ -106,7 +106,7 @@ export default function Header() {
                   <div>
                     <img
                       className="h-8 w-auto"
-                      src="src/assets/logo.svg"
+                      src={logo}
                       alt="Drawing Capital Logo"
                     />
                   </div>
