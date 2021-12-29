@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sean-vdw/DCG-Media.git/static/css/main.073c9b0a.css",
+    "main.js": "/sean-vdw/DCG-Media.git/static/js/main.eff918e7.js",
+    "static/js/787.d3cd354e.chunk.js": "/sean-vdw/DCG-Media.git/static/js/787.d3cd354e.chunk.js",
+    "static/media/logo-sq.svg": "/sean-vdw/DCG-Media.git/static/media/logo-sq.193c2983d2b17f055a2bf062e1813b55.svg",
+    "index.html": "/sean-vdw/DCG-Media.git/index.html",
+    "main.073c9b0a.css.map": "/sean-vdw/DCG-Media.git/static/css/main.073c9b0a.css.map",
+    "main.eff918e7.js.map": "/sean-vdw/DCG-Media.git/static/js/main.eff918e7.js.map",
+    "787.d3cd354e.chunk.js.map": "/sean-vdw/DCG-Media.git/static/js/787.d3cd354e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.eff918e7.js"
+  ]
+}
