@@ -3,14 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { Route } from 'react-router-dom';
 
 ReactDOM.render(
-  <Route exact path='/sean-vdw.github.io/DCG-Media/'>
     <React.StrictMode>
       <App />
-    </React.StrictMode>
-  </Route>,
+    </React.StrictMode>,
   document.getElementById('root')
 );
 
