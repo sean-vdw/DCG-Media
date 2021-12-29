@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import { Route } from 'react-router-dom';
 
 ReactDOM.render(
-  <Route exact path='/sean-vdw/DCG-Media.git/'>
+  <Route exact path='/sean-vdw/DCG-Media/'>
     <React.StrictMode>
       <App />
     </React.StrictMode>
