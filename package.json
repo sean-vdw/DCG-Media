@@ -1,7 +1,7 @@
 {
   "name": "dcg-media",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://github.com/sean-vdw/DCG-Media.git",
   "dependencies": {
     "@headlessui/react": "^1.4.2",
