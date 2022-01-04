@@ -1,3 +1,10 @@
+const { parse } = require('rss-to-json');
+
+parse('https://drawingcapital.substack.com/feed.xml')
+  .then(rss => {
+    console.log(JSON.stringify(rss, null, 3));
+  });
+
 const posts = [
   {
     title: 'Disruptive Innovation: The Fuel that Powers Growth',
