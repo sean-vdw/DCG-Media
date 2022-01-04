@@ -6,7 +6,7 @@ export default function CTA() {
           <span className="block">Interested in collaborating?</span>
           <span className="block text-sky-700">Get in touch.</span>
         </h2>
-        <div className="mt-8 flex lg:mt-0 lg:flex-shrink-0">
+        <div className="mt-8 flex lg:mt-0 lg:flex-shrink-0 md:justify-center">
           <div className="inline-flex rounded-md shadow">
             <a
               href="mailto:invest@drawingcapital.com"

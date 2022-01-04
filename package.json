@@ -2,6 +2,7 @@
   "name": "dcg-media",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://drawingcapital.substack.com/feed.xml",
   "dependencies": {
     "@headlessui/react": "^1.4.2",
     "@heroicons/react": "^1.0.5",
