@@ -1,10 +1,13 @@
 const { parse } = require('rss-to-json');
 
-parse('https://drawingcapital.substack.com/feed.xml')
+parse('https://drawingcapital.substack.com/feed')
   .then(rss => {
     console.log(JSON.stringify(rss, null, 3));
   });
 
+
+
+// Posts variable
 const posts = [
   {
     title: 'Disruptive Innovation: The Fuel that Powers Growth',
