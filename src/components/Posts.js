@@ -1,11 +1,9 @@
 const { parse } = require('rss-to-json');
 
-parse('https://cors-anywhere.herokuapp.com/https://drawingcapital.substack.com/feed')
+parse('https://drawingcapital.substack.com/feed')
   .then(rss => {
-    console.log(JSON.stringify(rss, null, 3));
+    console.log(rss);
   });
-
-
 
 // Posts variable
 const posts = [
